@@ -43,8 +43,6 @@ Août 2021
 **Master en Big Data, Analyse et Business Intelligence**  
 Université Sorbonne Paris Nord – Paris, France  
 Septembre 2025 – Présent  
-Sélectionnée parmi des millions de candidats internationaux pour ce Master classé 23e dans le domaine de l'analyse de données
-
 **Bachelor universitaire en Administration des affaires** – spécialité Business Analytics, mineure Marketing  
 Tunis Business School (TBS) – Tunisie  
 2020 – 2024  
