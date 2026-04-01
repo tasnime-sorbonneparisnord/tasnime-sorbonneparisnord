@@ -4,7 +4,6 @@
 Université Sorbonne Paris Nord  
 hkimitasnime3@gmail.com  
 linkedin.com/in/tasnime-hakimi-5b3b52207  
-github.com/Tasnime-HAKIMI
 
 ---
 
@@ -89,7 +88,7 @@ Italien – Débutante
 
 ---
 
-## Expériences extrascolaires
+## Expériences entrepreneuriales
 
 **University Company Program (UCP)**  
 Avril 2022 – Août 2022  
@@ -100,7 +99,3 @@ Décembre 2021
 Idéation rapide et prototypage. Création de réseau et apprentissage
 
 ---
-
-## Références
-
-Disponibles sur demande.
